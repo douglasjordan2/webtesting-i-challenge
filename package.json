@@ -1,0 +1,9 @@
+{
+  "name": "webtesting-i-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/douglasjordan2/webtesting-i-challenge.git",
+  "author": "<douglasjordan2@gmail.com>",
+  "license": "MIT",
+  "test": "jest --watch --verbose"
+}
